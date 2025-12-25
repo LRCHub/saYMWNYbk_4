@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "KANA-BOON - シルエット New Go-Line ver. / THE FIRST TAKE",
+  "base_artist": "KANA-BOON",
+  "createdAt": "2025-12-25T07:38:53.390725Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "KANA-BOON - スターマーカー",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/01_KANA-BOON_-_スターマーカー_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "KANA-BOON 『シルエット』Music Video",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/02_KANA-BOON_『シルエット』Music_Video_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kana Boon",
+      "artist": "Silhouette",
+      "has_synced": true,
+      "path": "select/03_Kana_Boon_Silhouette.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Revenge  ないものねだり - THE FIRST TAKE - KANA-BOON",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/04_Revenge_ないものねだり_-_THE_FIRST_TAKE_-_KANA-BOON_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Spiral (KANA-BOON cover)",
+      "artist": "PelleK",
+      "has_synced": false,
+      "path": "select/05_Spiral_(KANA-BOON_cover)_PelleK.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "silhouette - kana boon",
+      "artist": "narutoo",
+      "has_synced": true,
+      "path": "select/06_silhouette_-_kana_boon_narutoo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "KANA-BOON 『バトンロード』Music Video",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/07_KANA-BOON_『バトンロード』Music_Video_KANA-BOON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シルエット",
+      "artist": "KANA-BOON",
+      "has_synced": false,
+      "path": "select/pl_01_シルエット_KANA-BOON.txt"
+    }
+  ]
+}
